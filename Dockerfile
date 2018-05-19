@@ -33,6 +33,7 @@ RUN apt-get update \
     gstat \
     hdf5r \
     lidR \
+    lwgeom \
     mapdata \
     maptools \
     mapview \
